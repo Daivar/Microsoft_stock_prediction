@@ -8,8 +8,12 @@ Forecast from https://coinpriceforecast.com/msft
 
 ![image](https://user-images.githubusercontent.com/34160094/149473011-ca86d0c6-97b0-4f84-bb1e-32c81240f812.png)
 
-https://capital.com/microsoft-msft-stock-forecast
+More isights about this Microsoft stock https://capital.com/microsoft-msft-stock-forecast
 
+
+Used datase is from https://www.kaggle.com/faelk8/microsoft-stocks-price-prediction-lstm/data?select=Microsoft_Stock.csv
+
+This dataset will be analysed using LSTM neural network to predict the stock's closing price in 10 days.
 
 ![image](https://user-images.githubusercontent.com/34160094/149473779-55bef7c1-213f-42c0-a4ab-c8894517ac0a.png)
 
