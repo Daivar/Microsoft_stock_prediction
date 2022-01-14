@@ -22,3 +22,6 @@ This dataset will be analysed using LSTM & GRU neural network to predict the sto
 ![image](https://user-images.githubusercontent.com/34160094/149473779-55bef7c1-213f-42c0-a4ab-c8894517ac0a.png)
 
 ![image](https://user-images.githubusercontent.com/34160094/149473844-b2d2e60b-89c3-441a-9974-5886c081da3c.png)
+
+![image](https://user-images.githubusercontent.com/34160094/149532929-05ffe880-63c2-4c54-9609-ca8ed167d89d.png)
+
