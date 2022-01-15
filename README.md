@@ -1,4 +1,4 @@
-# Microsoft_stoct_prediction
+# Microsoft_stock_prediction
 
 2022.01.14 actual data
 
